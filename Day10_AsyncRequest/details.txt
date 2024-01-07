@@ -1,0 +1,3 @@
+It is the full implementation of e-comerce website 
+with contain all the functionalities including
+place order and payment.
